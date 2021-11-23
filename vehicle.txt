@@ -1,0 +1,18 @@
+Volkswagen Passat
+4
+201CD234
+Ford Focus
+2
+213CD4213
+Skoda Kodiak
+7
+102C1421
+BMW Z4
+5
+222D4213
+Hyundai I10 
+6
+212c4213
+Kia EV6
+6
+222D43489
